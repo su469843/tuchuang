@@ -1,1 +1,2 @@
-你好，这是一个测试文档
+A:hello,what your name?
+B:my name is 1234
